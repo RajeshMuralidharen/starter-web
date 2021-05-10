@@ -13,3 +13,7 @@ Sample website with plenty of files for demos and training
 ## Deployment
 
 The process of Project Deployment and other Something!
+
+## Copyright notes
+
+2021.Git.Training
